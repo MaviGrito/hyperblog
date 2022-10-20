@@ -1,3 +1,4 @@
 hola soy mavigrito
 este es un archivo de texto plano 
 utilizdo para la clase de git en platzi
+la edad correcta es 25
